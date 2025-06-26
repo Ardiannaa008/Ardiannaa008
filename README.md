@@ -1,10 +1,18 @@
 <h1 align="center">Hi 👋, I'm Ardiannaa008</h1>
 <h3 align="center">A passionate frontend developer!</h3>
-# 💫 About Me:
-<br>🔭 I’m currently working on my website Planwyn<br><br>
-🌱 I’m currently learning Javascript, React.js<br><br>
-📫 How to reach me [Insta](https://www.instagram.com/ardianaajdarii/)<br><br>
-⚡ Fun fact I love drawing
+
+---
+
+## 💫 About Me:
+
+🔭 I’m currently working on my website Planwyn
+
+🌱 I’m currently learning Javascript, React.js
+
+📫 How to reach me: [Insta](https://www.instagram.com/ardianaajdarii/)
+
+⚡ Fun fact: I love drawing
+
 
 
 # 💻 Tech Stack:
