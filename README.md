@@ -2,17 +2,8 @@
 <h3 align="center">A passionate frontend developer!</h3>
 
 ---
-
-## 💫 About Me:
-
-🔭 I’m currently working on my website Planwyn
-
-🌱 I’m currently learning Javascript, React.js
-
-📫 How to reach me: [Insta](https://www.instagram.com/ardianaajdarii/)
-
-⚡ Fun fact: I love drawing
-
+# 💫 About Me:
+<br>🔭 I’m currently working on my website Planwyn<br><br>🌱 I’m currently learning Javascript, React.js<br><br>📫 How to reach me [Insta](https://www.instagram.com/ardianaajdarii/)<br><br>⚡ Fun fact I love drawing
 
 
 # 💻 Tech Stack:
@@ -22,10 +13,16 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Ardiannaa008&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ardiannaa008&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Ardiannaa008&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ardiannaa008&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Ardiannaa008&limit=5&theme=nord&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ardiannaa008&icon=0&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Ardiannaa008&icon=0&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
