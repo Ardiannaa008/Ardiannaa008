@@ -3,7 +3,7 @@
 
 ---
 # 💫 About Me:
-🔭 I’m currently working on my website Planwyn<br><br>🌱 I’m currently learning Javascript, React.js<br><br>📫 How to reach me Insta<br><br>⚡ Fun fact I love drawing
+🔭 I’m currently working on my website Planwyn<br><br>🌱 I’m currently learning Javascript, React.js<br><br>⚡ Fun fact I love drawing
 
 
 ## 🌐 Socials:
