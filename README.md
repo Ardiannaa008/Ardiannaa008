@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ardiannaa008</h1>
+<h1 align="center">Hi, I'm Ardiannaa008</h1>
 <h3 align="center">A passionate frontend developer!</h3>
 
 ---
 # 💫 About Me:
-🔭 I’m working on my website Planwyn<br><br>🌱 I’m currently learning Javascript, React.js
+Working on my website Planwyn<br><br> I’m currently learning Javascript, React.js
 
 
 ## 🌐 Socials:
