@@ -3,7 +3,7 @@
 
 ---
 # 💫 About Me:
-Working on my website Planwyn<br><br> I’m currently learning React.js
+I’m currently learning React.js
 
 
 ## 🌐 Socials:
