@@ -2,7 +2,6 @@
 <h3 align="center">A passionate frontend developer!</h3>
 
 ---
-# 💫 About Me:
 I’m currently learning React.js
 
 
