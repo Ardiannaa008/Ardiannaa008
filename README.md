@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ardiannaa008</h1>
 <h3 align="center">A passionate frontend developer!</h3>
 
-I'm currently learning React!
+I'm currently learning React! You can check my work here [MyPortfolio](https://ardiannaa008.github.io/MyPortfolio/)
 
 
 ## Socials:
