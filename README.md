@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ardiannaa008&theme=" alt="Ardiannaa008" /></a> </p>
 
 
-- Lets connect Feel free to reach out or share ideas: [Insta](https://www.instagram.com/ardianaajdarii/) • [Portfolio](https://ardiannaa008.github.io/MyPortfolio/) ** [Insta](https://www.instagram.com/ardianaajdarii/) **
+- Lets connect Feel free to reach out or share ideas: [Insta](https://www.instagram.com/ardianaajdarii/) • [Portfolio](https://ardiannaa008.github.io/MyPortfolio/) 
 - All of my projects are available at **[portfolio](https://ardiannaa008.github.io/MyPortfolio)**
 
 <div> <a href="https://github.com/Ardiannaa008" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
