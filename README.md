@@ -1,12 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ardiana Ardiana</h1>
+<h1 align="center">Hi 👋, I'm Ardiana</h1>
 <h3 align="center">Love building stuff!</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ardiannaa008&label=Profile%20views&color=0e75b6&style=flat" alt="Ardiannaa008" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ardiannaa008&theme=" alt="Ardiannaa008" /></a> </p>
 
 
 - Lets connect Feel free to reach out or share ideas: [Insta](https://www.instagram.com/ardianaajdarii/) • [Portfolio](https://ardiannaa008.github.io/MyPortfolio/) ** [Insta](https://www.instagram.com/ardianaajdarii/) **
-- All of my projects are available at **https://ardiannaa008.github.io/MyPortfolio**
+- All of my projects are available at **[portfolio](https://ardiannaa008.github.io/MyPortfolio)**
 
 <div> <a href="https://github.com/Ardiannaa008" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/ardianaajdarii" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
