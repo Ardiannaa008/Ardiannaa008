@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ardiana</h1>
 <h3 align="center">Love building stuff!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ardiannaa008&theme=" alt="Ardiannaa008" /></a> </p>
 
 
 - Lets connect Feel free to reach out or share ideas: [Insta](https://www.instagram.com/ardianaajdarii/) • [Portfolio](https://ardiannaa008.github.io/MyPortfolio/) 
