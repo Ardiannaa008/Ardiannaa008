@@ -2,7 +2,7 @@
 <h3 align="center">Love building stuff!</h3>
 
 
--Currentlu leraning Jvascript and React
+- Currently leraning Jvascript and React
 - Lets connect Feel free to reach out or share ideas: [Insta](https://www.instagram.com/ardianaajdarii/) • [Portfolio](https://ardiannaa008.github.io/MyPortfolio/) 
 - All of my projects are available at **[portfolio](https://ardiannaa008.github.io/MyPortfolio)**
 
