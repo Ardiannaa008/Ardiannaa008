@@ -4,7 +4,7 @@
 # 💫 About Me:
 
 - Currently leraning Javascript and React
-- Lets connect Feel free to reach out or share ideas: [Insta](https://www.instagram.com/ardianaajdarii/) • [Portfolio](https://ardiannaa008.github.io/MyPortfolio/)  • [Discord](https://discord.com/channels/@me/1258036747909074944)
+- Lets connect Feel free to reach out or share ideas: [Insta](https://www.instagram.com/ardianaajdarii/) • [Portfolio](https://ardiannaa008.github.io/MyPortfolio/)  • [Discord](https://discord.com/1258036747909074944)
 - All of my projects are available at **[portfolio](https://ardiannaa008.github.io/MyPortfolio)**
 
 
