@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ardiana</h1>
 <h3 align="center">Love building stuff!</h3>
 
-# 💫 About Me:
 
 - Currently leraning Javascript and React
 - Lets connect Feel free to reach out or share ideas: [Insta](https://www.instagram.com/ardianaajdarii/) • [Portfolio](https://ardianaajdari.netlify.app/)  
