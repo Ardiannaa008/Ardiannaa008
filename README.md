@@ -3,8 +3,8 @@
 
 
 - Currently leraning Javascript and React
-- Lets connect Feel free to reach out or share ideas: [Insta](https://www.instagram.com/ardianaajdarii/) • [Portfolio](https://ardianaajdari.netlify.app/)  
-- All of my projects are available at **[portfolio](https://ardianaajdari.netlify.app/)**
+- Lets connect Feel free to reach out or share ideas: [Insta](https://www.instagram.com/ardianaajdarii/) • [Portfolio](https://arddevportfolio.netlify.app/)  
+- All of my projects are available at **[portfolio](https://arddevportfolio.netlify.app/)**
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1258036747909074944) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ardianaajdarii)
